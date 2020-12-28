@@ -1,0 +1,464 @@
+stars,title,tags,details,link,comments,author
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}10552",Markdown記法 チートシート,"<li class=""tagList_item""><a href=""/tags/Qiita"">Qiita</a></li>
+<li class=""tagList_item""><a href=""/tags/Markdown"">Markdown</a></li>","",https://qiita.com//Qiita/items/c686397e4a0f4f11683d,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}8502",プログラミングでよく使う英単語のまとめ【随時更新】,"<li class=""tagList_item""><a href=""/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0"">プログラミング</a></li>
+<li class=""tagList_item""><a href=""/tags/%E8%8B%B1%E8%AA%9E"">英語</a></li>
+<li class=""tagList_item""><a href=""/tags/%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87"">命名規則</a></li>
+<li class=""tagList_item""><a href=""/tags/English"">English</a></li>","",https://qiita.com//Ted-HM/items/7dde25dcffae4cdc7923,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}8035",ペアプログラミングして気がついた新人プログラマの成長を阻害する悪習,"<li class=""tagList_item""><a href=""/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0"">プログラミング</a></li>
+<li class=""tagList_item""><a href=""/tags/Perl"">Perl</a></li>
+<li class=""tagList_item""><a href=""/tags/Ruby"">Ruby</a></li>
+<li class=""tagList_item""><a href=""/tags/JavaScript"">JavaScript</a></li>","",https://qiita.com//hirokidaichi/items/27c757d92b6915e8ecf7,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}6530",非デザイナーエンジニアが一人でWebサービスを作るときに便利なツール32選,"<li class=""tagList_item""><a href=""/tags/Bootstrap"">Bootstrap</a></li>
+<li class=""tagList_item""><a href=""/tags/Rails"">Rails</a></li>
+<li class=""tagList_item""><a href=""/tags/Heroku"">Heroku</a></li>
+<li class=""tagList_item""><a href=""/tags/CSS"">CSS</a></li>
+<li class=""tagList_item""><a href=""/tags/Ruby"">Ruby</a></li>","",https://qiita.com//okappy/items/119e31cae9aa9bd9da6d,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}6015",【まとめ】これ知らないプログラマって損してんなって思う汎用的なツール 100超,"<li class=""tagList_item""><a href=""/tags/PHP"">PHP</a></li>
+<li class=""tagList_item""><a href=""/tags/JavaScript"">JavaScript</a></li>
+<li class=""tagList_item""><a href=""/tags/Python"">Python</a></li>
+<li class=""tagList_item""><a href=""/tags/Ruby"">Ruby</a></li>
+<li class=""tagList_item""><a href=""/tags/HTML"">HTML</a></li>","",https://qiita.com//suin/items/f570f057a0ff927b47dc,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}5286",AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問 ～,"<li class=""tagList_item""><a href=""/tags/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0"">アルゴリズム</a></li>
+<li class=""tagList_item""><a href=""/tags/algorithm"">algorithm</a></li>
+<li class=""tagList_item""><a href=""/tags/AtCoder"">AtCoder</a></li>
+<li class=""tagList_item""><a href=""/tags/%E7%AB%B6%E6%8A%80%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0"">競技プログラミング</a></li>
+<li class=""tagList_item""><a href=""/tags/%E6%96%B0%E4%BA%BA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E5%BF%9C%E6%8F%B4"">新人プログラマ応援</a></li>","",https://qiita.com//drken/items/fd4e5e3630d0f5859067,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}5227",新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡,"<li class=""tagList_item""><a href=""/tags/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91"">オブジェクト指向</a></li>
+<li class=""tagList_item""><a href=""/tags/Ruby"">Ruby</a></li>
+<li class=""tagList_item""><a href=""/tags/JavaScript"">JavaScript</a></li>
+<li class=""tagList_item""><a href=""/tags/Perl"">Perl</a></li>
+<li class=""tagList_item""><a href=""/tags/Objective-C"">Objective-C</a></li>","",https://qiita.com//hirokidaichi/items/591ad96ab12938878fe1,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}5121",翻訳: WebAPI 設計のベストプラクティス,"<li class=""tagList_item""><a href=""/tags/api"">api</a></li>
+<li class=""tagList_item""><a href=""/tags/rest"">rest</a></li>
+<li class=""tagList_item""><a href=""/tags/%E8%A8%AD%E8%A8%88"">設計</a></li>
+<li class=""tagList_item""><a href=""/tags/%E7%BF%BB%E8%A8%B3"">翻訳</a></li>
+<li class=""tagList_item""><a href=""/tags/WebAPI"">WebAPI</a></li>","",https://qiita.com//mserizawa/items/b833e407d89abd21ee72,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}4803",もう保守されない画面遷移図は嫌なので、UI Flow図を簡単にマークダウンぽく書くエディタ作った,"<li class=""tagList_item""><a href=""/tags/Electron"">Electron</a></li>
+<li class=""tagList_item""><a href=""/tags/uiflow"">uiflow</a></li>
+<li class=""tagList_item""><a href=""/tags/JavaScript"">JavaScript</a></li>
+<li class=""tagList_item""><a href=""/tags/Graphviz"">Graphviz</a></li>","",https://qiita.com//hirokidaichi/items/ff54a968bdd7bcc50d42,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}4618",開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する,"<li class=""tagList_item""><a href=""/tags/%E5%80%8B%E4%BA%BA%E9%96%8B%E7%99%BA"">個人開発</a></li>
+<li class=""tagList_item""><a href=""/tags/Ruby"">Ruby</a></li>
+<li class=""tagList_item""><a href=""/tags/JavaScript"">JavaScript</a></li>
+<li class=""tagList_item""><a href=""/tags/AWS"">AWS</a></li>
+<li class=""tagList_item""><a href=""/tags/Heroku"">Heroku</a></li>","",https://qiita.com//jabba/items/1a49e860a09a613b09d4,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}4541",2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。,"<li class=""tagList_item""><a href=""/tags/%E3%82%AD%E3%83%A3%E3%83%AA%E3%82%A2"">キャリア</a></li>
+<li class=""tagList_item""><a href=""/tags/AWS"">AWS</a></li>
+<li class=""tagList_item""><a href=""/tags/gcp"">gcp</a></li>","",https://qiita.com//poly_soft/items/fb649573c19b7a5c0227,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}4535",エンジニアの情報収集法まとめ,"<li class=""tagList_item""><a href=""/tags/%E3%81%BE%E3%81%A8%E3%82%81"">まとめ</a></li>
+<li class=""tagList_item""><a href=""/tags/%E5%88%9D%E5%BF%83%E8%80%85"">初心者</a></li>
+<li class=""tagList_item""><a href=""/tags/%E5%8B%89%E5%BC%B7"">勉強</a></li>
+<li class=""tagList_item""><a href=""/tags/%E6%96%B0%E4%BA%BA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E5%BF%9C%E6%8F%B4"">新人プログラマ応援</a></li>","",https://qiita.com//nesheep5/items/e7196ba496e59bb2aa28,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3970",Pythonを書き始める前に見るべきTips,"<li class=""tagList_item""><a href=""/tags/Python"">Python</a></li>","",https://qiita.com//icoxfog417/items/e8f97a6acad07903b5b0,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3837",「AWS is 何」を3行でまとめてみるよ,"<li class=""tagList_item""><a href=""/tags/AWS"">AWS</a></li>","",https://qiita.com//kohashi/items/1bb952313fb695f12577,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3836",GitHubで使われている実用英語コメント集,"<li class=""tagList_item""><a href=""/tags/Git"">Git</a></li>
+<li class=""tagList_item""><a href=""/tags/GitHub"">GitHub</a></li>
+<li class=""tagList_item""><a href=""/tags/English"">English</a></li>
+<li class=""tagList_item""><a href=""/tags/Python"">Python</a></li>
+<li class=""tagList_item""><a href=""/tags/AdventCalendar"">AdventCalendar</a></li>","",https://qiita.com//shikichee/items/a5f922a3ef3aa58a1839,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3809",使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」,"<li class=""tagList_item""><a href=""/tags/Ruby"">Ruby</a></li>
+<li class=""tagList_item""><a href=""/tags/RSpec"">RSpec</a></li>","",https://qiita.com//jnchito/items/42193d066bd61c740612,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3787",ウェブカツ運営者が語る！エンジニアで稼ぐために大切な２０のコト,"<li class=""tagList_item""><a href=""/tags/%E6%96%B0%E4%BA%BA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E5%BF%9C%E6%8F%B4"">新人プログラマ応援</a></li>
+<li class=""tagList_item""><a href=""/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E6%95%99%E8%82%B2"">プログラミング教育</a></li>
+<li class=""tagList_item""><a href=""/tags/%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%AE%A1%E7%90%86"">プロジェクト管理</a></li>
+<li class=""tagList_item""><a href=""/tags/%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88"">マネジメント</a></li>","",https://qiita.com//kazukichi/items/7379b75fba2f90d3cf45,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3785",Vim幼稚園からVim小学校へ,"<li class=""tagList_item""><a href=""/tags/Vim"">Vim</a></li>","",https://qiita.com//hachi8833/items/7beeee825c11f7437f54,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3660",ネイティブと働いて分かった英語コミットメッセージの頻出動詞10つ,"<li class=""tagList_item""><a href=""/tags/%E8%8B%B1%E8%AA%9E"">英語</a></li>
+<li class=""tagList_item""><a href=""/tags/programming"">programming</a></li>
+<li class=""tagList_item""><a href=""/tags/Git"">Git</a></li>","",https://qiita.com//gogotanaka/items/b65e1b081fa976e5d754,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3460",[初心者向け] RubyやRailsでリファクタリングに使えそうなイディオムとか便利メソッドとか,"<li class=""tagList_item""><a href=""/tags/Rails"">Rails</a></li>
+<li class=""tagList_item""><a href=""/tags/Ruby"">Ruby</a></li>
+<li class=""tagList_item""><a href=""/tags/%E5%88%9D%E5%BF%83%E8%80%85"">初心者</a></li>","",https://qiita.com//jnchito/items/dedb3b889ab226933ccf,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3364",モデルやメソッドに名前を付けるときは英語の品詞に気をつけよう,"<li class=""tagList_item""><a href=""/tags/English"">English</a></li>
+<li class=""tagList_item""><a href=""/tags/Ruby"">Ruby</a></li>
+<li class=""tagList_item""><a href=""/tags/Rails"">Rails</a></li>","",https://qiita.com//jnchito/items/459d58ba652bf4763820,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3212",プログラミング勉強を加速させる7つの習慣,"<li class=""tagList_item""><a href=""/tags/%E6%96%B0%E4%BA%BA%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E5%BF%9C%E6%8F%B4"">新人プログラマ応援</a></li>
+<li class=""tagList_item""><a href=""/tags/%E5%88%9D%E5%BF%83%E8%80%85"">初心者</a></li>
+<li class=""tagList_item""><a href=""/tags/%E5%8B%89%E5%BC%B7"">勉強</a></li>
+<li class=""tagList_item""><a href=""/tags/Ruby"">Ruby</a></li>
+<li class=""tagList_item""><a href=""/tags/Rails"">Rails</a></li>","",https://qiita.com//YudaiTsukamoto/items/42a8df22ca4c6b327dfd,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3197",Markdown記法 サンプル集,"<li class=""tagList_item""><a href=""/tags/Markdown"">Markdown</a></li>
+<li class=""tagList_item""><a href=""/tags/githubflavoredmarkdown"">githubflavoredmarkdown</a></li>","",https://qiita.com//tbpgr/items/989c6badefff69377da7,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3183",VagrantとDockerについて名前しか知らなかったので試した,"<li class=""tagList_item""><a href=""/tags/Vagrant"">Vagrant</a></li>
+<li class=""tagList_item""><a href=""/tags/Docker"">Docker</a></li>","",https://qiita.com//hidekuro/items/fc12344d36d996198e96,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3150",2016年 独りで新規WEBサービスを開発・運用した際の知見,"<li class=""tagList_item""><a href=""/tags/Python"">Python</a></li>
+<li class=""tagList_item""><a href=""/tags/Flask"">Flask</a></li>
+<li class=""tagList_item""><a href=""/tags/HTML"">HTML</a></li>
+<li class=""tagList_item""><a href=""/tags/SEO"">SEO</a></li>
+<li class=""tagList_item""><a href=""/tags/Rails"">Rails</a></li>","",https://qiita.com//haminiku/items/711cbdb894d1d6839e3e,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3124",(下準備編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで,"<li class=""tagList_item""><a href=""/tags/Ruby"">Ruby</a></li>
+<li class=""tagList_item""><a href=""/tags/AWS"">AWS</a></li>
+<li class=""tagList_item""><a href=""/tags/Rails"">Rails</a></li>","",https://qiita.com//naoki_mochizuki/items/f795fe3e661a3349a7ce,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2933",新人プログラマに正月休み中を使って読んでみてほしい技術書をセレクトしてみた。,"<li class=""tagList_item""><a href=""/tags/%E6%8A%80%E8%A1%93%E6%9B%B8"">技術書</a></li>","",https://qiita.com//hirokidaichi/items/d30714f0698dcff1200f,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2927",初心者歓迎！手と目で覚える正規表現入門・その１「さまざまな形式の電話番号を検索しよう」,"<li class=""tagList_item""><a href=""/tags/Ruby"">Ruby</a></li>
+<li class=""tagList_item""><a href=""/tags/ATOM"">ATOM</a></li>
+<li class=""tagList_item""><a href=""/tags/%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%8F%BE"">正規表現</a></li>
+<li class=""tagList_item""><a href=""/tags/JavaScript"">JavaScript</a></li>","",https://qiita.com//jnchito/items/893c887fbf19e17d3ff9,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2820",2017年のフロントエンドエンジニアならこの程度は知ってて当然だよな？,"<li class=""tagList_item""><a href=""/tags/JavaScript"">JavaScript</a></li>
+<li class=""tagList_item""><a href=""/tags/%E3%83%95%E3%83%AD%E3%83%B3%E3%83%88%E3%82%A8%E3%83%B3%E3%83%89"">フロントエンド</a></li>
+<li class=""tagList_item""><a href=""/tags/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2"">エンジニア</a></li>","",https://qiita.com//rana_kualu/items/cad8dbbe5f5a1f1b3ba1,,
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2813",新人プログラマに知ってもらいたいメソッドを読みやすく維持するいくつかの原則,"<li class=""tagList_item""><a href=""/tags/Ruby"">Ruby</a></li>
+<li class=""tagList_item""><a href=""/tags/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0"">プログラミング</a></li>
+<li class=""tagList_item""><a href=""/tags/JavaScript"">JavaScript</a></li>
+<li class=""tagList_item""><a href=""/tags/Perl"">Perl</a></li>","",https://qiita.com//hirokidaichi/items/c9a76191216f3cc6c4b2,,

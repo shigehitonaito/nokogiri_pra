@@ -1,0 +1,779 @@
+stars,title,tags,details,link,comments,author
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}10552",Markdown記法 チートシート,"[""Qiita"", ""Markdown""]","Code - コードの挿入
+たとえば、Rubyで記述したコードをファイル名「qiita.rb」として投稿したいときは、 バッククオート を使用して以下のように投稿するとシンタ ...",https://qiita.com//Qiita/items/c686397e4a0f4f11683d,192,Qiita
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}8502",プログラミングでよく使う英単語のまとめ【随時更新】,"[""\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0"", ""\u82F1\u8A9E"", ""\u547D\u540D\u898F\u5247"", ""English""]","public string Name { get; private set; } = 0;
+Ruby は言語仕様としてアクセサ (attr_accessor) を簡単に定義できる。",https://qiita.com//Ted-HM/items/7dde25dcffae4cdc7923,40,Ted-HM
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}8035",ペアプログラミングして気がついた新人プログラマの成長を阻害する悪習,"[""\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0"", ""Perl"", ""Ruby"", ""JavaScript""]","最近、あまりプログラミングが得意でない人のサポートをする形で、長い時間にわたってペアプログラミングを行っている。そのなかで、気がついた悪い習慣と成長するための良い習慣というものをまとめてみる。
+...",https://qiita.com//hirokidaichi/items/27c757d92b6915e8ecf7,28,hirokidaichi
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}6530",非デザイナーエンジニアが一人でWebサービスを作るときに便利なツール32選,"[""Bootstrap"", ""Rails"", ""Heroku"", ""CSS"", ""Ruby""]","rticles/delayed-job
+Redis&Resque
+https://devcenter.heroku.com/articles/queuing-ruby ...",https://qiita.com//okappy/items/119e31cae9aa9bd9da6d,19,okappy
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}6015",【まとめ】これ知らないプログラマって損してんなって思う汎用的なツール 100超,"[""PHP"", ""JavaScript"", ""Python"", ""Ruby"", ""HTML""]","Unit
+使えるテストフレームワークがこれしかない…
+Phing
+php のビルドツール，テスト環境や本番などの環境ごとのブートストラップ指定や，結合テストの設定に
+Ruby ...",https://qiita.com//suin/items/f570f057a0ff927b47dc,32,suin
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}5286",AtCoder に登録したら次にやること ～ これだけ解けば十分闘える！過去問精選 10 問 ～,"[""\u30A2\u30EB\u30B4\u30EA\u30BA\u30E0"", ""algorithm"", ""AtCoder"", ""\u7AF6\u6280\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0"", ""\u65B0\u4EBA\u30D7\u30ED\u30B0\u30E9\u30DE\u5FDC\u63F4""]","un さん
+Common Lisp
+AtCoder に登録したら解くべき精選過去問 10 問を Common Lisp で解いてみた
+@fireflower0 さん
+Ruby ...",https://qiita.com//drken/items/fd4e5e3630d0f5859067,13,drken
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}5227",新人プログラマに知っておいてもらいたい人類がオブジェクト指向を手に入れるまでの軌跡,"[""\u30AA\u30D6\u30B8\u30A7\u30AF\u30C8\u6307\u5411"", ""Ruby"", ""JavaScript"", ""Perl"", ""Objective-C""]","rubyのmoduleやそのinclude,prepend、特異メソッド、特異クラスなどは
+まさにその例だ。 たとえば、rubyのObject#sendがそ ...",https://qiita.com//hirokidaichi/items/591ad96ab12938878fe1,16,hirokidaichi
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}5121",翻訳: WebAPI 設計のベストプラクティス,"[""api"", ""rest"", ""\u8A2D\u8A08"", ""\u7FFB\u8A33"", ""WebAPI""]",Java や C# であればキャメルケースで、Python や Ruby であればスネークケースといった感じです。 $ curl https://api.github.com ...,https://qiita.com//mserizawa/items/b833e407d89abd21ee72,19,mserizawa
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}4803",もう保守されない画面遷移図は嫌なので、UI Flow図を簡単にマークダウンぽく書くエディタ作った,"[""Electron"", ""uiflow"", ""JavaScript"", ""Graphviz""]",これはRuby on Railsを生み出したことで有名な37signalsのブログで紹介された技法だ。,https://qiita.com//hirokidaichi/items/ff54a968bdd7bcc50d42,34,hirokidaichi
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}4618",開設後３週間で収益１０万円を得た個人開発サイトでやったことの全部を公開する,"[""\u500B\u4EBA\u958B\u767A"", ""Ruby"", ""JavaScript"", ""AWS"", ""Heroku""]","開設して３週間ほどで収益１０万円を個人開発サイトから得たので、そこでやったことを全部ここに公開する。
+世の中には＊＊億ドルのバリュエーションを獲得したスゲー起業家の話か、個人開発サイトを立ち上げ...",https://qiita.com//jabba/items/1a49e860a09a613b09d4,48,jabba
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}4541",2018年の最先端バックエンドエンジニアに必要なスキルについて考えてみました。,"[""\u30AD\u30E3\u30EA\u30A2"", ""AWS"", ""gcp""]","言語
+ロードマップに記載されていた言語のうち、私は一応
+Elixir
+Scala
+Java
+.NET (C#とVB.NET)
+Python
+Ruby
+PHP
+TypeScri ...",https://qiita.com//poly_soft/items/fb649573c19b7a5c0227,18,poly_soft
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}4535",エンジニアの情報収集法まとめ,"[""\u307E\u3068\u3081"", ""\u521D\u5FC3\u8005"", ""\u52C9\u5F37"", ""\u65B0\u4EBA\u30D7\u30ED\u30B0\u30E9\u30DE\u5FDC\u63F4""]","it(デブサミ)
+Go
+Go Conference
+golang.tokyo
+Go言語の初心者が見ると幸せになれる場所 - Qiita (@tenntenn さん)
+Ruby ...",https://qiita.com//nesheep5/items/e7196ba496e59bb2aa28,15,nesheep5
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3970",Pythonを書き始める前に見るべきTips,"[""Python""]",いるPyPIというサイトがあり、こちらに作成したパッケージを公開することでpip installなどでほかの人に広く使ってもらうことが可能になる(JavaにおけるMaven、Ruby,https://qiita.com//icoxfog417/items/e8f97a6acad07903b5b0,26,icoxfog417
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3837",「AWS is 何」を3行でまとめてみるよ,"[""AWS""]","Ruby, PHP, node.js, Java, Python, .Net, Docker, Go が動くPaaS。内部的にはEC2 + ELB ぽいね。",https://qiita.com//kohashi/items/1bb952313fb695f12577,12,kohashi
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3836",GitHubで使われている実用英語コメント集,"[""Git"", ""GitHub"", ""English"", ""Python"", ""AdventCalendar""]","1
+use,in
+Use A in B
+Bの箇所のAを用いる
+Use stub in testing.
+use,for
+Use A for B
+BのためにAを用いる
+use Ruby",https://qiita.com//shikichee/items/a5f922a3ef3aa58a1839,7,shikichee
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3809",使えるRSpec入門・その1「RSpecの基本的な構文や便利な機能を理解する」,"[""Ruby"", ""RSpec""]","対象となる読者
+「RSpecってなんか怖そう」と思っているRSpec初心者の方
+「何度か使ってみたけど、RSpecってようわからん」と思っているRSpec経験者の方
+Ruby ...",https://qiita.com//jnchito/items/42193d066bd61c740612,20,jnchito
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3787",ウェブカツ運営者が語る！エンジニアで稼ぐために大切な２０のコト,"[""\u65B0\u4EBA\u30D7\u30ED\u30B0\u30E9\u30DE\u5FDC\u63F4"", ""\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0\u6559\u80B2"", ""\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\u7BA1\u7406"", ""\u30DE\u30CD\u30B8\u30E1\u30F3\u30C8""]",稼ぎたいなら、html、CSS、jsなどフロント側言語とphp、ruby、javaなどサーバサイド言語を使って、一つのサービスを自分でまず作れるようになること。,https://qiita.com//kazukichi/items/7379b75fba2f90d3cf45,73,kazukichi
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3785",Vim幼稚園からVim小学校へ,"[""Vim""]","とりあえず自分はRubyのshebangとGolangのテンプレートを登録してみた。
+Level 6
+何だかこの自虐的な記事が妙に多くの人にストックされてしまった。",https://qiita.com//hachi8833/items/7beeee825c11f7437f54,21,hachi8833
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3660",ネイティブと働いて分かった英語コミットメッセージの頻出動詞10つ,"[""\u82F1\u8A9E"", ""programming"", ""Git""]","Bに取り替える
+例
+Replace the elaborate reloading connection checking scheme, just fix the Ruby ...",https://qiita.com//gogotanaka/items/b65e1b081fa976e5d754,13,gogotanaka
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3460",[初心者向け] RubyやRailsでリファクタリングに使えそうなイディオムとか便利メソッドとか,"[""Rails"", ""Ruby"", ""\u521D\u5FC3\u8005""]","昨日Qiitaに投稿した記事は普段のコードレビューの副産物 - give IT a try
+Ruby編
+以下はRubyの標準機能を使ったイディオムやメソッド ...",https://qiita.com//jnchito/items/dedb3b889ab226933ccf,15,jnchito
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3364",モデルやメソッドに名前を付けるときは英語の品詞に気をつけよう,"[""English"", ""Ruby"", ""Rails""]","想定する言語/フレームワーク
+この記事の説明ではRuby/Ruby on Railsを想定しています。
+ただし、基本的な考え方は他の言語でも同じように使える ...",https://qiita.com//jnchito/items/459d58ba652bf4763820,25,jnchito
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3212",プログラミング勉強を加速させる7つの習慣,"[""\u65B0\u4EBA\u30D7\u30ED\u30B0\u30E9\u30DE\u5FDC\u63F4"", ""\u521D\u5FC3\u8005"", ""\u52C9\u5F37"", ""Ruby"", ""Rails""]","アプリケーションを作る為に必要なRuby, Rails, MySQLの勉強は徹底的にする。
+実運用や開発の効率化を考えて、ソフトウェアテストやGit等のツールやスキルは勉強する。 ",https://qiita.com//YudaiTsukamoto/items/42a8df22ca4c6b327dfd,18,YudaiTsukamoto
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3197",Markdown記法 サンプル集,"[""Markdown"", ""githubflavoredmarkdown""]","記述例
+　~~~ruby
+　class Hoge
+　  def hoge
+　    print 'hoge'
+　  end
+　end
+　~~~
+表示例
+class Hoge
+ ...",https://qiita.com//tbpgr/items/989c6badefff69377da7,3,tbpgr
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3183",VagrantとDockerについて名前しか知らなかったので試した,"[""Vagrant"", ""Docker""]","（Vagrant自体のダウンロード時間などは除く）
+また、構成内容をそのままコマンドに食わせるテキストファイル（実態は ruby コード）にできるので、 環境構築手順.doc ...",https://qiita.com//hidekuro/items/fc12344d36d996198e96,7,hidekuro
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3150",2016年 独りで新規WEBサービスを開発・運用した際の知見,"[""Python"", ""Flask"", ""HTML"", ""SEO"", ""Rails""]",日本語ドキュメントがたぶん日本で一番豊富なRuby on Rails を使うことをオススメします。 人間様が気分よくプログラムするための...というRuby ...,https://qiita.com//haminiku/items/711cbdb894d1d6839e3e,3,haminiku
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}3124",(下準備編)世界一丁寧なAWS解説。EC2を利用して、RailsアプリをAWSにあげるまで,"[""Ruby"", ""AWS"", ""Rails""]","世界一丁寧なAWS解説シリーズ　項目表
+No.
+タイトル
+1
+〜〜下準備編(今ここ)〜〜
+2
+DB・サーバー構築編
+3
+デプロイ編①
+4
+デプロイ編②
+5
+Capistrano編
+はじめに
+Ra...",https://qiita.com//naoki_mochizuki/items/f795fe3e661a3349a7ce,4,naoki_mochizuki
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2933",新人プログラマに正月休み中を使って読んでみてほしい技術書をセレクトしてみた。,"[""\u6280\u8853\u66F8""]","リファクタリング:Rubyエディション
+Rubyのバージョンもあるので、LLでのパターン検討にはこちらでもいいかもしれません。",https://qiita.com//hirokidaichi/items/d30714f0698dcff1200f,2,hirokidaichi
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2927",初心者歓迎！手と目で覚える正規表現入門・その１「さまざまな形式の電話番号を検索しよう」,"[""Ruby"", ""ATOM"", ""\u6B63\u898F\u8868\u73FE"", ""JavaScript""]","Ruby
+JavaScript
+Atom
+とはいえ、正規表現はそれ自体が独立したミニ言語みたいなものなので、プログラミング言語やテキストエディタを問わず、同じように使えます。 ",https://qiita.com//jnchito/items/893c887fbf19e17d3ff9,8,jnchito
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2820",2017年のフロントエンドエンジニアならこの程度は知ってて当然だよな？,"[""JavaScript"", ""\u30D5\u30ED\u30F3\u30C8\u30A8\u30F3\u30C9"", ""\u30A8\u30F3\u30B8\u30CB\u30A2""]","トランスパイラ
+HAML
+Ruby on Railsでよく使われるらしい。
+Pug
+旧称Jade。HAMLとだいたい同じ。
+Markdown
+Redmine等で使われる記法。",https://qiita.com//rana_kualu/items/cad8dbbe5f5a1f1b3ba1,11,rana_kualu
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2812",新人プログラマに知ってもらいたいメソッドを読みやすく維持するいくつかの原則,"[""Ruby"", ""\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0"", ""JavaScript"", ""Perl""]","rubyなどif式自体が返値を持っているような場合はそれをつかうのもいいでしょう。 Perl : Perl::Metrics::Lite
+Ruby : ru ...",https://qiita.com//hirokidaichi/items/c9a76191216f3cc6c4b2,8,hirokidaichi
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2727",なぜ仮想DOMという概念が俺達の魂を震えさせるのか,"[""VirtualDom"", ""AdventCalendar"", ""JavaScript"", ""React""]",たとえば僕は今Rubyでjadeテンプレートエンジンを仮想DOMとしてrenderするような実験してて、次のようなことができるのもわかってます。,https://qiita.com//mizchi/items/4d25bc26def1719d52e6,,mizchi
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2646",コーディングをするときに鼻血がでるほど便利なwebツールリスト,"[""tool"", ""Web"", ""coding"", ""\u6B63\u898F\u8868\u73FE"", ""naming""]","Rubular
+Rubyの正規表現をテストできます。
+JSON
+JSON FORMATTER & VALIDATOR
+JSON系のツールが集まったサイト。 Java
+ ...",https://qiita.com//isuke/items/7fcc5eb0b985005b7b7c,19,isuke
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2552",npm とか bower とか一体何なんだよ！Javascript 界隈の文脈を理解しよう,"[""JavaScript"", ""Node.js"", ""CommonJS"", ""browserify""]",C言語なら #include、ruby なら require、golang なら import。 こうして Javascript は、めでたく ruby の ...,https://qiita.com//megane42/items/2ab6ffd866c3f2fda066,5,megane42
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2489",プログラマーの君！ 騙されるな！ シェルスクリプトはそう書いちゃ駄目だ！！ という話,"[""Bash"", ""\u30B7\u30A7\u30EB\u30B9\u30AF\u30EA\u30D7\u30C8""]",ですが、コマンドを実行するだけならNode.jsでもRubyでもPythonでも大抵の言語でできます。ここで言いたいのはそういう事ではありません。 筆者も、一番馴染みがある言 ...,https://qiita.com//piroor/items/77233173707a0baa6360,11,piroor
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2476",4ステップで作成する、DB論理設計の手順とチェックポイントまとめ,"[""oracle"", ""MySQL"", ""SQL"", ""Ruby"", ""PHP""]","はじめに
+「達人に学ぶDB設計」、「SQLアンチパターン」を読んだのでDB設計をする流れとその過程でのチェックポイントをまとめてみました。
+今回は本に載っているものの中でも特に重要そうな部分に絞...",https://qiita.com//nishina555/items/a79ece1b54faf7240fac,13,nishina555
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2369",Javaを使うなら知っておきたい技術、フレームワーク、ライブラリ、ツールまとめ,"[""\u30C4\u30FC\u30EB"", ""\u30E9\u30A4\u30D6\u30E9\u30EA"", ""Java""]","Mustache.java
+Java以外にRuby, JavaScript, Python, PHP, Go, Scala, node.js他多数の言語で使用可能なテンプレー ...",https://qiita.com//disc99/items/727b51dbe737602a5c91,17,disc99
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2322",もっと気軽にアウトプットできる技術ブログサービス「Qrunch（クランチ）」をリリースした【個人開発】,"[""Web\u30B5\u30FC\u30D3\u30B9"", ""\u500B\u4EBA\u958B\u767A"", ""Ruby"", ""Markdown"", ""Rails""]","クランチの動作環境
+Ruby , Ruby on Rails
+JavaScript , jQuery
+css , sass
+nginx , unicorn
+ ...",https://qiita.com//terubooon/items/95a561d163d26bbfe274,39,terubooon
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2272",動的言語だけやってた僕が、38日間Go言語を書いて学んだこと,"[""Go"", ""PHP"", ""Java""]","筆者のバックグランド
+PHP歴、JavaScript歴10年~
+Python 3ヶ月くらい
+Ruby 1日
+静的言語経験ほぼ皆無(Java 3日くらい、Scala 3日くらい ...",https://qiita.com//suin/items/22662f43b6a6e8728798,2,suin
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2156",Naming -名前付け-,"[""naming"", "".NET"", ""Java"", ""Ruby"", ""\u30C9\u30E1\u30A4\u30F3\u99C6\u52D5\u8A2D\u8A08""]","Naming -名前付け-
+プログラミングで最も重要な技術の一つが、名前付けです。
+且つ、センスが問われるものなので、上達は難しいものでもあります。
+この記事では、様々な文献から抽出した名前付け...",https://qiita.com//Koki_jp/items/f3d3e824f98d182d4100,6,Koki_jp
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2144",Git・GitHubに隠された便利な機能 | GitHub Cheat Sheet（日本語訳）,"[""Git"", ""GitHub"", ""gist"", ""\u7FFB\u8A33""]","heat-sheet
+日本語翻訳
+sotayamashita/github-cheat-sheet
+概要
+このチートシートは、Zach HolmanさんがAloha Ruby ...",https://qiita.com//unbabel/items/1cf05f2a2be3d6fb3388,7,unbabel
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2100",レッドコーダーが教える、競プロ・AtCoder上達のガイドライン【初級編：競プロを始めよう】,"[""\u7AF6\u6280\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0"", ""AtCoder"", ""\u30A2\u30EB\u30B4\u30EA\u30BA\u30E0"", ""\u6570\u5B66"", ""\u65B0\u4EBA\u30D7\u30ED\u30B0\u30E9\u30DE\u5FDC\u63F4""]","実際に、
+C++14
+Java
+Python
+C#
+Ruby
+などを含む、50種類以上のプログラミング言語で提出をすることができます。",https://qiita.com//e869120/items/f1c6f98364d1443148b3,11,e869120
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}2081",Vue.jsを100時間勉強して分かったこと,"[""Vue.js""]",学習開始時のレベルは、JavaScript・jQueryはそれなりに扱うことができ、過去に少しだけReactを勉強したことがある感じでした（専門は Ruby on Rails ...,https://qiita.com//kskinaba/items/3e8887d45b11f9132012,13,kskinaba
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}1977",エンジニア歴20数年の私が、設計書を書く際に心がけていること,"[""\u4ED5\u69D8\u66F8"", ""\u8A2D\u8A08\u66F8"", ""\u65B0\u4EBA\u30D7\u30ED\u30B0\u30E9\u30DE\u5FDC\u63F4"", ""\u6559\u80B2""]",略語についても用語集に記載するか、または文書冒頭に「Ruby on Rails（以下、RoRと記載）」という感じで書きましょう。,https://qiita.com//y-some/items/90651c1e27f7798f87c6,29,y-some
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}1970",Webアプリケーションフレームワーク導入時に考慮すべき22の観点,"[""\u8A2D\u8A08"", ""DDD"", ""\u30A2\u30FC\u30AD\u30C6\u30AF\u30C1\u30E3"", ""\u30D5\u30EC\u30FC\u30E0\u30EF\u30FC\u30AF""]",例えばRubyでは、Timecopというgemがあり、簡単に現在日時を固定することができる。 例えば、RailsのActive Recordマイグレーションでは、,https://qiita.com//tmknom/items/08b69594e32a92bccee5,10,tmknom
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}1967",脱初心者を目指すVimmerにオススメしたいVimプラグインや.vimrcの設定,"[""Vim"", ""Ruby""]","imのプラグインに興味はあるが、多すぎてどれを使うべきか迷っている人
+基本的なVimコマンドには慣れてきたが、.vimrcのカスタマイズにはまだ抵抗がある人
+VimでRuby ...",https://qiita.com//jnchito/items/5141b3b01bced9f7f48f,6,jnchito
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}1964",ライセンスの選択を恐れる必要はありません,"[""\u30E9\u30A4\u30BB\u30F3\u30B9"", ""GPL"", ""MIT-License"", ""ApacheLicense""]","(Ruby 1.9.2リリースとWEBrick脆弱性問題の顛末 - 西尾泰和のはてなダイアリー より引用)
+また、2chの Navi2ch for Emacs (Part 2 ...",https://qiita.com//tadsan/items/99d816e78ca429093b75,10,tadsan
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}1933",1分でも早く仕事を終わらせるためにVSCodeにできること,"[""VSCode"", ""\u52B9\u7387\u5316"", ""IDE""]","TypeScript
+Python
+Go
+Ruby
+C#
+...etc
+と10数個の言語をサポートしています。",https://qiita.com//EaE/items/4ca1b35396eba682a86f,14,EaE
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}1909",ソートを極める！ 〜 なぜソートを学ぶのか 〜,"[""\u30A2\u30EB\u30B4\u30EA\u30BA\u30E0"", ""\u7AF6\u6280\u30D7\u30ED\u30B0\u30E9\u30DF\u30F3\u30B0"", ""\u30BD\u30FC\u30C8"", ""\u6570\u5B66"", ""\u65B0\u4EBA\u30D7\u30ED\u30B0\u30E9\u30DE\u5FDC\u63F4""]","その辺りの話は
+Ruby アルゴリズム 線形探索と二分探索
+【アルゴリズムとは？探索アルゴリズム入門】~Python~
+にも書いてあります。しかし疑問が浮かんだ方も多いと思います。",https://qiita.com//drken/items/44c60118ab3703f7727f,23,drken
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}1891",rails generate migrationコマンドまとめ,"[""Rails"", ""Ruby""]",RailsでDBスキーマ周りをいじろうとすると、たいていrails generate migrationコマンドあたりがでてくるんだけど、なんかいまいちどういう使い方ができるのか、分からなかった...,https://qiita.com//zaru/items/cde2c46b6126867a1a64,1,zaru
+".ViewerChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#55C500;
+}
+
+.NotChecked{
+display:inline-block;
+width:40px;
+height:9.1px;
+fill:#999;
+}1891",2018年の最先端バックエンドエンジニアになろう,"[""Node.js"", ""PHP"", ""\u30D0\u30C3\u30AF\u30A8\u30F3\u30C9""]",例えばPHPやNode.jsを使っているのであれば、PythonやRubyではなく、ErlangやGolangを試してみてください。 PHPを選んだのであればComposer ...,https://qiita.com//rana_kualu/items/19ab559dddbca6674417,2,rana_kualu
+stars,title,tags,details,link,comments,author
